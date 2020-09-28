@@ -22,7 +22,7 @@ Column(
           ],
         ),
 欢迎邮件交流 email:1697935859@qq.com
-示例请看imgs文件夹的图片
+示例请看imgs 文件夹的图片
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
