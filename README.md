@@ -3,12 +3,13 @@
 自定义以及魔改的卡片， 柱状图，饼状图，日历，折线图
 
 ## Getting Started
+## Usage
 ```my_flutter_card:
     git:
       url: https://github.com/daxuliu/flutter_my_card.git
       ref: master
 
- usage
+ 
 
 import 'package:my_flutter_card/TieziCard.dart';
 Column(
@@ -19,7 +20,7 @@ Column(
               username: "阿来",
             )
           ],
-        ),```
+        ),
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
