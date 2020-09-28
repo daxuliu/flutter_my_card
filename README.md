@@ -7,9 +7,9 @@
     git:
       url: https://github.com/daxuliu/flutter_my_card.git
       ref: master
-      ```
-### usage
-```
+
+ usage
+
 import 'package:my_flutter_card/TieziCard.dart';
 Column(
           children: <Widget>[
@@ -19,8 +19,8 @@ Column(
               username: "阿来",
             )
           ],
-        ),
-```
+        ),```
+
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
