@@ -1,6 +1,6 @@
 # my_flutter_card
 
-自定义以及魔改的卡片， 柱状图，饼状图，日历，折线图
+自定义以及魔改的卡片， 柱状图，饼状图，日历，折线图，悬浮球
 
 ## Getting Started
 ## Usage
@@ -21,7 +21,8 @@ Column(
             )
           ],
         ),
-
+欢迎邮件交流 email:1697935859@qq.com
+示例请看imgs文件夹的图片
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
 a library module containing code that can be shared easily across
