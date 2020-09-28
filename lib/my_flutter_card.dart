@@ -1,5 +1,7 @@
 library my_flutter_card;
+
 import 'TieziCard.dart';
+
 /// A Calculator.
 class Calculator {
   /// Returns [value] plus 1.
