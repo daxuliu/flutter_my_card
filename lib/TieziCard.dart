@@ -41,11 +41,11 @@ class TieziCard extends StatelessWidget {
               ),
               ClipOval(
                   child: Image(
-                image: AssetImage("images/avatar/avatar_1.png"),
-                //NetworkImage(avatarUrl),
-                width: 35.0,
-                height: 35.0,
-              )),
+                    image: //AssetImage("images/avatar/avatar_1.png"),
+                    NetworkImage(avatarUrl),
+                    width: 35.0,
+                    height: 35.0,
+                  )),
               SizedBox(
                 height: 5,
               ),
